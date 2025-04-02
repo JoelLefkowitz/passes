@@ -1,0 +1,6 @@
+{
+  "preset": "ts-jest",
+  "modulePathIgnorePatterns": ["dist"],
+  "collectCoverage": true,
+  "coverageProvider": "v8"
+}
