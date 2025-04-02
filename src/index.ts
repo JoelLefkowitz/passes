@@ -1,1 +1,1 @@
-export { all, any, passes } from "./booleans";
+export { all, any, passes } from "./arrays";

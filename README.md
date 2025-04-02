@@ -15,6 +15,40 @@ Operations on sets of booleans.
 npm install passes
 ```
 
+## Motivation
+
+The JavaScript standard is missing lots of standard operations on sets of booleans:
+
+`all`
+
+```ts
+all([true, false]);
+```
+
+```json
+false
+```
+
+`any`
+
+```ts
+any([true, false]);
+```
+
+```json
+true
+```
+
+`passes`
+
+```ts
+passes([true, false]);
+```
+
+```json
+1
+```
+
 ## Documentation
 
 Documentation and more detailed examples are hosted on [Github Pages](https://joellefkowitz.github.io/passes).

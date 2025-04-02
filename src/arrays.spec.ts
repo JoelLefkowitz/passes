@@ -1,4 +1,4 @@
-import { all, any, passes } from "./booleans";
+import { all, any, passes } from "./arrays";
 
 describe("all", () => {
   it("checks if all elements are true", () => {
