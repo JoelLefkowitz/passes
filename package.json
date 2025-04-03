@@ -1,7 +1,7 @@
 {
   "name": "passes",
   "description": "Operations on sets of booleans.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "author": "Joel Lefkowitz",
   "repository": "https://github.com/joellefkowitz/passes",
