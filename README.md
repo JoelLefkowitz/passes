@@ -2,7 +2,7 @@
 
 Operations on sets of booleans.
 
-![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/passes/review.yml)
+![Review](https://img.shields.io/github/actions/workflow/status/JoelLefkowitz/passes/review.yaml)
 ![Version](https://img.shields.io/npm/v/passes)
 ![Downloads](https://img.shields.io/npm/dw/passes)
 ![Size](https://img.shields.io/bundlephobia/min/passes)
